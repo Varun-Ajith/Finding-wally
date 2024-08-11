@@ -43,4 +43,4 @@ python findingwally.py
 - The template matching method used is cv2.TM_CCOEFF. Experiment with other methods if needed.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
